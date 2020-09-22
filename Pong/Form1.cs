@@ -58,7 +58,7 @@ namespace Pong
         Rectangle leftBottom;
         Rectangle rightTop;
         Rectangle rightBottom;
-        const int GOALSIZE = 75;
+        const int GOALSIZE = 100;
 
         //player and game scores
         int player1Score = 0;
